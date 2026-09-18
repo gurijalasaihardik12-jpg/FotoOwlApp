@@ -1,3 +1,8 @@
+## Android APK
+
+You can download and install the Android APK from the Expo EAS build:
+
+https://expo.dev/accounts/hardik12324/projects/FotoOwlApp/builds/e35344fa-db65-4ba7-b750-f55958c04fe9
 # Foto Owl
 
 Foto Owl is a React Native image gallery application developed using
